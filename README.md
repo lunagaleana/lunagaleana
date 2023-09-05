@@ -1,22 +1,49 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**lunagaleana/lunagaleana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Programming with Tecnolochicas Pro
+- 👯 I’m looking to collaborate on ...Projects of scientific and technological interest.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about ...STEAM areas, the Universe and Innovation
+- 📫 How to reach me: ... Instagram. luna.g_al
+- 😄 Pronouns: ...She/Her
+- ⚡ Fun fact: ... I am Mexican and I love dance
 
-# Markdown
 
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
